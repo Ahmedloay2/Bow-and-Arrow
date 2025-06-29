@@ -39,5 +39,6 @@ Welcome to **Bow&Arrow**, a 2D balloon-popping archery game developed using **Pr
 
 ## 🧮 Scoring System
 
-Your score is calculated as:
+Your score is calculated as: Score = (Remaining Arrows + 1) × Number of Balloons Popped
+
 
